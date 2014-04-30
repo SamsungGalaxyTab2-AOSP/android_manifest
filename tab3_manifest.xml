@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="andi34/android_device_samsung_lt01lte" path="device/samsung/lt01lte" remote="github" revision="kk4.4" />
+  <project name="andi34/android_device_samsung_lt013g" path="device/samsung/lt013g" remote="github" revision="kk4.4" />
+  <project name="andi34/android_device_samsung_lt01wifi" path="device/samsung/lt01wifi" remote="github" revision="kk4.4" />
+  <project name="andi34/android_device_samsung_lt01-common" path="device/samsung/lt01-common" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="kk4.4" />
+  <project name="kumajaya/android_kernel_samsung_smdk4x12" path="kernel/samsung/smdk4x12" remote="github" revision="cm-11.0" />
+</manifest>
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="andi34/proprietary_galaxy_tab2" path="vendor/samsung" remote="github" revision="cm-10.2" />
+</manifest>

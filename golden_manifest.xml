@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="andi34/android_hardware_u8500" path="hardware/u8500" remote="github" revision="lp5.1" />
+  <project name="andi34/android_device_samsung_golden" path="device/samsung/golden" remote="github" revision="lp5.1" />
+  <project name="andi34/android_kernel_samsung_golden" path="kernel/samsung/golden" remote="github" revision="lp5.1" />
+</manifest>
